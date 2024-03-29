@@ -19,6 +19,11 @@ I'm currently diving deeper into:
 
 - 🎓 Bachelor's in Information System Engineering, University Teknologi Mara
 - 📚 Ongoing learning through online courses, tutorials, and hands-on projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MufirMuffin&layout=compact)](https://github.com/MufirMuffin/github-readme-stats)
+![Commits](https://img.shields.io/github/commit-activity/m/MufirMuffin)
+[![MufirMuffin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MufirMuffin)](https://github.com/MufirMuffin/github-readme-activity-graph)
+
 <!--
 **MufirMuffin/MufirMuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
